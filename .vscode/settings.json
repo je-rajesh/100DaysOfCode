@@ -1,0 +1,6 @@
+{
+    "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/resources/js"
+  },
+  "workbench.colorTheme": "Default High Contrast"
+}
